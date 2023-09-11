@@ -1,1 +1,1 @@
-# p-component
+component
